@@ -222,4 +222,4 @@ UNetbootin is the full free version with all features and updates included. Ther
 Take the plunge and experience the flexibility of Linux with UNetbootin. Download now and start your journey!
 
 ---
-**Last updated:** 2026-10-30 10:38:24 UTC
+**Last updated:** 2026-10-30 16:54:05 UTC
